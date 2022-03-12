@@ -1,6 +1,6 @@
 # Poap.cz 
-+ Proof of Attendance Protocol（出勤证明协议）
 + -- record your DeGen life!  [中文README](README_CN.md)
++ Proof of Attendance Protocol（出勤证明协议）
 + Yes, we have poap.xyz already. I admire it and have use it to distribut a NFT for DAPP Learning DAO's activity.
 + But, It is very compplex even for a experinced expert in first time. Acturally, I used two hours to finish it.
 + To be honest, poap.xyz give me too many choices like a foreiger ordering dishes in Chinese restaurant.
