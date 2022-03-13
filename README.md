@@ -1,6 +1,6 @@
 # Poap.cz 
 + -- record your DeGen life!  [中文README](README_CN.md)
-+ Proof of Attendance Protocol（出勤证明协议）
++ Proof of Attendance Protocol.
 + Yes, we have poap.xyz already. I admire it and have use it to distribut a NFT for DAPP Learning DAO's activity.
 + But, It is very compplex even for a experinced expert in first time. Acturally, I used two hours to finish it.
 + To be honest, poap.xyz give me too many choices like a foreiger ordering dishes in Chinese restaurant.
@@ -36,17 +36,19 @@ npm install poap.cz
 + Node moudle provide []()
 
 ## Free member
-+ 100 times building per mail register.
++ Free for DeGen(decentralized generation), if you have any token to pay gasfee, we are free.
++ Provide 3 steps building and direct link to send and get the poap badge.
+-----
++ 10 times building per mail register binding with your wallet.
 + Invite friends to join, add 10 times.
-+ Provide direct link to send and get the poap badge.
 
-## Payments member
-+ Normal user
-+ 49$ /year, 4.9$ /month
-+ Start NFT, 100个, 0.07 ETH (Also a jLab.tech Club Token): Permenent member.
+## Premium member
++ Premium 
++ ?$ /year, ?$ /month
++ Start NFT, 100个, 0.? ETH (Also a jLab.tech Club Token): Permenent member.
 + Enterprise user(Developer user)
-+ 499$ /year include 10W revoke or Enterprise NFT 0.5 ETH for Permenent member.
-+ API times invoke: 100 times/ month free, 1000 times 10$ plus premium API.
++ ?$ /year include 10W revoke or Enterprise NFT 0.? ETH for Permenent member.
++ API times invoke: 100 times/ month free, 1000 times ?$ plus premium API.
 + Provide video NFT,SVG NFT, assembly code generator etc.
 
 ## Trigger of this
