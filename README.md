@@ -35,21 +35,9 @@ npm install poap.cz
 + Basiclly we deployed the contract on Ethereum and Polygon, we will delopy multichain.
 + Node moudle provide []()
 
-## Free member
+## Free
 + Free for DeGen(decentralized generation), if you have any token to pay gasfee, we are free.
 + Provide 3 steps building and direct link to send and get the poap badge.
------
-+ 10 times building per mail register binding with your wallet.
-+ Invite friends to join, add 10 times.
-
-## Premium member
-+ Premium 
-+ ?$ /year, ?$ /month
-+ Start NFT, 100个, 0.? ETH (Also a jLab.tech Club Token): Permenent member.
-+ Enterprise user(Developer user)
-+ ?$ /year include 10W revoke or Enterprise NFT 0.? ETH for Permenent member.
-+ API times invoke: 100 times/ month free, 1000 times ?$ plus premium API.
-+ Provide video NFT,SVG NFT, assembly code generator etc.
 
 ## Trigger of this
 + ECN friend want us to give a hand to make 500 NFTs spreading automonas.
