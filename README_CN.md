@@ -1,6 +1,8 @@
 # Poap.cz 
 + -- 记录你的 **DeGen** 人生!  [English README](README.md)
 + Proof of Attendance Protocol（出席证明协议）
++ 或者
++ Proof of Presence Protocol(出席证明协议)
 + 是的，我们已经有了poap.xyz. 我很欣赏poap.xyz， 并且用poap.xyz制作过 DAPP Learning DAO's 的活动纪念NFT。
 + 但是，即便对于一个有经验的专家而言，它也确实太复杂了. 实际上，我花了两个多小时，才搞定第一次NFT发放。
 + 老实说, poap.xyz 给了我太多选择，就像老外进了中餐馆点菜，眼都花了。
