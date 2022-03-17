@@ -17,6 +17,9 @@
 + M3: contract design
 + M4: frontend and backend design
 + M5: V0.01 publish
+
+# Progress
++ [Progress kanban](https://www.notion.so/Poap-cz-a1892a22cb244aaf88b0e39563ca239f)
 ----
 + The following is the content of the plan, **under construction**.
 ----
