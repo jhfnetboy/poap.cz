@@ -20,6 +20,8 @@
 + M4: 前端，后端设计
 + M5: V0.01 发布
 ----
+## Contribution Guideline
++ 
 + 以下都是计划, **建设中**.
 ----
 ## Charactors
