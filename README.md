@@ -18,8 +18,9 @@
 + M4: frontend and backend design
 + M5: V0.01 publish
 
-# Progress
-+ [Progress kanban](https://www.notion.so/Poap-cz-a1892a22cb244aaf88b0e39563ca239f)
+# Progress going on
++ [Progress kanban](https://xstack.notion.site/Poap-cz-a1892a22cb244aaf88b0e39563ca239f)
++ [Feature list](https://xstack.notion.site/Poap-cz-cd5fee5d85094881b6dff6ef9af3ee0b)
 ----
 + The following is the content of the plan, **under construction**.
 ----

@@ -19,6 +19,10 @@
 + M3: 合约设计
 + M4: 前端，后端设计
 + M5: V0.01 发布
+
+# Progress going on
++ [Progress kanban](https://xstack.notion.site/Poap-cz-a1892a22cb244aaf88b0e39563ca239f)
++ [Feature list](https://xstack.notion.site/Poap-cz-cd5fee5d85094881b6dff6ef9af3ee0b)
 ----
 + 以下都是计划, **建设中**.
 ----
