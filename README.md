@@ -1,4 +1,5 @@
 # Poap.cz 
+> + cause a Game developing work, I must put my heart in it, this product will be delay.
 + -- record your DeGen life!  [中文README](README_CN.md)
 + Proof of Attendance Protocol.
 + or
